@@ -1,0 +1,358 @@
+222 162 176 57 184 198 36 84 24 192 285 38 247 294 18 170 73 10 42 197 125 235 124 253 101 118 43 100 292 11 68 284 75 272 240 
+central node for this community will be: 18
+
+224 117 60 61 131 163 142 183 128 127 204 281 46 228 136 137 63 234 186 95 151 94 111 229 244 220 17 40 62 263 45 
+central node for this community will be: 229
+
+252 110 109 207 85 134 133 166 107 106 193 81 80 209 211 213 241 256 210 206 182 264 290 173 297 293 216 298 302 159 119 149 223 303 114 305 
+central node for this community will be: 207
+
+269 129 120 140 154 181 217 47 267 87 48 132 147 187 239 250 225 49 283 286 227 74 146 72 201 90 307 
+central node for this community will be: 250
+
+276 189 178 32 177 249 268 258 257 179 194 99 59 34 153 31 188 230 259 261 89 174 262 112 260 
+central node for this community will be: 261
+
+279 4 5 16 104 
+central node for this community will be: 279
+
+296 50 148 251 138 88 102 19 152 278 116 76 291 195 69 56 168 30 191 52 155 172 91 185 121 
+central node for this community will be: 88
+
+299 200 6 7 55 115 169 270 
+central node for this community will be: 299
+
+300 14 274 103 280 28 29 282 277 236 64 70 139 157 51 71 113 180 289 233 27 77 26 266 265 96 13 12 15 203 164 143 144 221 275 273 
+central node for this community will be: 180
+
+301 208 237 214 
+central node for this community will be: 208
+
+254 123 65 83 21 219 215 78 79 199 243 212 287 308 161 190 23 218 8 205 97 58 98 150 238 271 248 130 160 167 158 175 92 3 232 126 22 44 86 
+central node for this community will be: 21
+
+67 295 0 1 66 82 93 145 171 245 246 2 165 202 255 
+central node for this community will be: 246
+
+304 122 108 25 20 231 37 242 39 226 156 54 53 288 141 
+central node for this community will be: 25
+
+306 41 105 33 196 35 
+central node for this community will be: 196
+
+135 9 
+central node for this community will be: 9
+
+diffusion process is started:
+node 18 - 0 time units
+node 229 - 0 time units
+node 207 - 0 time units
+node 250 - 0 time units
+node 261 - 0 time units
+node 279 - 0 time units
+node 88 - 0 time units
+node 299 - 0 time units
+node 180 - 0 time units
+node 208 - 0 time units
+node 21 - 0 time units
+node 246 - 0 time units
+node 25 - 0 time units
+node 196 - 0 time units
+node 9 - 0 time units
+node 31 - 3 time units
+node 89 - 3 time units
+node 237 - 3 time units
+node 301 - 3 time units
+node 111 - 4 time units
+node 163 - 4 time units
+node 234 - 4 time units
+node 4 - 5 time units
+node 5 - 5 time units
+node 16 - 5 time units
+node 104 - 5 time units
+node 20 - 5 time units
+node 108 - 5 time units
+node 122 - 5 time units
+node 242 - 5 time units
+node 17 - 6 time units
+node 44 - 6 time units
+node 124 - 6 time units
+node 170 - 6 time units
+node 294 - 6 time units
+node 214 - 6 time units
+node 174 - 7 time units
+node 78 - 8 time units
+node 123 - 8 time units
+node 202 - 8 time units
+node 219 - 8 time units
+node 248 - 8 time units
+node 288 - 8 time units
+node 6 - 9 time units
+node 7 - 9 time units
+node 55 - 9 time units
+node 115 - 9 time units
+node 169 - 9 time units
+node 200 - 9 time units
+node 270 - 9 time units
+node 33 - 9 time units
+node 35 - 9 time units
+node 41 - 9 time units
+node 62 - 9 time units
+node 105 - 9 time units
+node 268 - 9 time units
+node 306 - 9 time units
+node 85 - 11 time units
+node 304 - 11 time units
+node 0 - 12 time units
+node 1 - 12 time units
+node 2 - 12 time units
+node 66 - 12 time units
+node 69 - 12 time units
+node 82 - 12 time units
+node 93 - 12 time units
+node 114 - 12 time units
+node 145 - 12 time units
+node 165 - 12 time units
+node 295 - 12 time units
+node 37 - 12 time units
+node 19 - 13 time units
+node 50 - 13 time units
+node 52 - 13 time units
+node 102 - 13 time units
+node 138 - 13 time units
+node 152 - 13 time units
+node 155 - 13 time units
+node 172 - 13 time units
+node 191 - 13 time units
+node 251 - 13 time units
+node 291 - 13 time units
+node 3 - 13 time units
+node 10 - 13 time units
+node 125 - 13 time units
+node 135 - 13 time units
+node 136 - 13 time units
+node 158 - 13 time units
+node 232 - 13 time units
+node 240 - 13 time units
+node 38 - 13 time units
+node 260 - 13 time units
+node 266 - 13 time units
+node 141 - 13 time units
+node 24 - 14 time units
+node 47 - 14 time units
+node 48 - 14 time units
+node 132 - 14 time units
+node 140 - 14 time units
+node 147 - 14 time units
+node 154 - 14 time units
+node 181 - 14 time units
+node 187 - 14 time units
+node 217 - 14 time units
+node 267 - 14 time units
+node 269 - 14 time units
+node 286 - 14 time units
+node 94 - 14 time units
+node 95 - 14 time units
+node 151 - 14 time units
+node 186 - 14 time units
+node 281 - 14 time units
+node 100 - 16 time units
+node 228 - 16 time units
+node 143 - 17 time units
+node 257 - 17 time units
+node 258 - 17 time units
+node 15 - 18 time units
+node 26 - 18 time units
+node 27 - 18 time units
+node 40 - 18 time units
+node 64 - 18 time units
+node 70 - 18 time units
+node 133 - 18 time units
+node 139 - 18 time units
+node 157 - 18 time units
+node 233 - 18 time units
+node 236 - 18 time units
+node 277 - 18 time units
+node 289 - 18 time units
+node 39 - 18 time units
+node 231 - 18 time units
+node 79 - 18 time units
+node 199 - 18 time units
+node 201 - 18 time units
+node 235 - 18 time units
+node 287 - 18 time units
+node 171 - 19 time units
+node 215 - 19 time units
+node 285 - 19 time units
+node 45 - 20 time units
+node 263 - 20 time units
+node 53 - 20 time units
+node 54 - 20 time units
+node 156 - 20 time units
+node 67 - 20 time units
+node 244 - 20 time units
+node 142 - 21 time units
+node 42 - 21 time units
+node 73 - 21 time units
+node 75 - 21 time units
+node 86 - 21 time units
+node 197 - 21 time units
+node 247 - 21 time units
+node 254 - 21 time units
+node 134 - 21 time units
+node 265 - 22 time units
+node 87 - 22 time units
+node 12 - 23 time units
+node 112 - 23 time units
+node 177 - 23 time units
+node 189 - 23 time units
+node 249 - 23 time units
+node 262 - 23 time units
+node 276 - 23 time units
+node 23 - 23 time units
+node 49 - 23 time units
+node 175 - 23 time units
+node 239 - 23 time units
+node 307 - 23 time units
+node 226 - 23 time units
+node 8 - 24 time units
+node 97 - 24 time units
+node 113 - 24 time units
+node 130 - 24 time units
+node 160 - 24 time units
+node 271 - 24 time units
+node 280 - 24 time units
+node 195 - 24 time units
+node 255 - 24 time units
+node 46 - 24 time units
+node 167 - 24 time units
+node 220 - 24 time units
+node 179 - 24 time units
+node 243 - 24 time units
+node 60 - 25 time units
+node 61 - 25 time units
+node 63 - 25 time units
+node 91 - 25 time units
+node 117 - 25 time units
+node 127 - 25 time units
+node 131 - 25 time units
+node 137 - 25 time units
+node 204 - 25 time units
+node 224 - 25 time units
+node 65 - 25 time units
+node 92 - 25 time units
+node 227 - 25 time units
+node 11 - 25 time units
+node 43 - 25 time units
+node 76 - 25 time units
+node 116 - 25 time units
+node 272 - 25 time units
+node 284 - 26 time units
+node 120 - 26 time units
+node 129 - 26 time units
+node 164 - 26 time units
+node 56 - 27 time units
+node 296 - 27 time units
+node 185 - 27 time units
+node 118 - 27 time units
+node 162 - 27 time units
+node 176 - 27 time units
+node 184 - 27 time units
+node 192 - 27 time units
+node 198 - 27 time units
+node 222 - 27 time units
+node 225 - 27 time units
+node 34 - 27 time units
+node 59 - 27 time units
+node 99 - 27 time units
+node 153 - 27 time units
+node 194 - 27 time units
+node 212 - 27 time units
+node 148 - 28 time units
+node 168 - 28 time units
+node 278 - 28 time units
+node 101 - 28 time units
+node 238 - 28 time units
+node 282 - 28 time units
+node 205 - 29 time units
+node 74 - 29 time units
+node 126 - 29 time units
+node 51 - 29 time units
+node 13 - 29 time units
+node 96 - 29 time units
+node 203 - 29 time units
+node 32 - 29 time units
+node 178 - 30 time units
+node 28 - 31 time units
+node 29 - 31 time units
+node 300 - 31 time units
+node 128 - 31 time units
+node 183 - 31 time units
+node 121 - 32 time units
+node 245 - 32 time units
+node 146 - 32 time units
+node 103 - 32 time units
+node 274 - 32 time units
+node 77 - 33 time units
+node 190 - 33 time units
+node 308 - 33 time units
+node 58 - 33 time units
+node 150 - 33 time units
+node 30 - 34 time units
+node 22 - 34 time units
+node 14 - 34 time units
+node 68 - 35 time units
+node 84 - 35 time units
+node 283 - 35 time units
+node 71 - 35 time units
+node 72 - 35 time units
+node 36 - 35 time units
+node 57 - 35 time units
+node 264 - 36 time units
+node 161 - 36 time units
+node 90 - 37 time units
+node 144 - 37 time units
+node 221 - 37 time units
+node 273 - 37 time units
+node 275 - 37 time units
+node 119 - 37 time units
+node 149 - 37 time units
+node 253 - 37 time units
+node 218 - 38 time units
+node 83 - 39 time units
+node 292 - 40 time units
+node 159 - 45 time units
+node 223 - 45 time units
+node 182 - 46 time units
+node 206 - 46 time units
+node 98 - 47 time units
+node 303 - 47 time units
+node 173 - 50 time units
+node 302 - 52 time units
+node 188 - 66 time units
+node 230 - 66 time units
+node 259 - 66 time units
+node 80 - 308 time units
+node 81 - 308 time units
+node 106 - 308 time units
+node 107 - 308 time units
+node 109 - 308 time units
+node 110 - 308 time units
+node 166 - 308 time units
+node 193 - 308 time units
+node 209 - 308 time units
+node 210 - 308 time units
+node 211 - 308 time units
+node 213 - 308 time units
+node 216 - 308 time units
+node 241 - 308 time units
+node 252 - 308 time units
+node 256 - 308 time units
+node 290 - 308 time units
+node 293 - 308 time units
+node 297 - 308 time units
+node 298 - 308 time units
+node 305 - 308 time units
+total number of nodes which get information are: 309
+time taken for the information to get diffused in the whole network is: 308 time units
+total number of nodes are: 309 and number of nodes which do not get information are: 0
